@@ -1,7 +1,6 @@
 scipy
 py3dmol
 matplotlib
-python
 seaborn
 biopython
 numpy
