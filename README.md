@@ -15,4 +15,4 @@ They can also be viewed interactively without installing or downloading
 anything. To do this click on the link below and wait for Jupyter Lab to launch
 in your browser.
 
-[link](https://mybinder.org/v2/gh/Weeks-UNC/RNAvigate_figures/HEAD)
+- [link](https://mybinder.org/v2/gh/Weeks-UNC/RNAvigate_figures/HEAD)
