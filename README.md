@@ -2,7 +2,13 @@
 
 Data and Jupyter notebooks used in the creation of figures for RNAvigate paper.
 
-These notebooks can be viewed as static web pages by clicking on the html files above.
+These notebooks can be viewed as static web pages by clicking on the links below.
+- [figure 1](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/figure_1.html)
+- [figure 2](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/figure_2.html)
+- [figure 3](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/figure_3.html)
+- [figure 4](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/figure_4.html)
+- [figure 5](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/figure_5.html)
+
 
 They can also be viewed interactively without installing or downloading
 anything. To do this:
