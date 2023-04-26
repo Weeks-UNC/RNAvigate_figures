@@ -6,4 +6,4 @@ biopython
 numpy
 pandas
 scikit-learn
-git+https://github.com/Weeks-UNC/RNAvigate@5209086#egg=rnavigate
+git+https://github.com/Weeks-UNC/RNAvigate@3e2b68d#egg=rnavigate
