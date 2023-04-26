@@ -622,14 +622,14 @@ SEQRES   3 X   80    G   G   C   U   G   A   G   A   A   A   U   A   C
 SEQRES   4 X   80    C   C   G   U   A   U   C   A   C   C   U   G   A          
 SEQRES   5 X   80    U   C   U   G   G   A   U   A   A   U   G   C   C          
 SEQRES   6 X   80    A   G   C   G   U   A   G   G   G   A   A   G   U          
-SEQRES   7 X   80    U CCC                                                      
+SEQRES   7 X   80    U   C                                                      
 SEQRES   1 Y   80  GTP   G   A   C   U   C   G   G   G   G   U   G   C          
 SEQRES   2 Y   80    C   C   U   U   C   U   G   C   G   U   G   A   A          
 SEQRES   3 Y   80    G   G   C   U   G   A   G   A   A   A   U   A   C          
 SEQRES   4 Y   80    C   C   G   U   A   U   C   A   C   C   U   G   A          
 SEQRES   5 Y   80    U   C   U   G   G   A   U   A   A   U   G   C   C          
 SEQRES   6 Y   80    A   G   C   G   U   A   G   G   G   A   A   G   U          
-SEQRES   7 Y   80    U CCC                                                      
+SEQRES   7 Y   80    U   C                                                      
 MODRES 2GDI GTP X   10    G  GUANOSINE-5'-TRIPHOSPHATE                          
 MODRES 2GDI CCC X   89    C                                                     
 MODRES 2GDI GTP Y   10    G  GUANOSINE-5'-TRIPHOSPHATE                          
