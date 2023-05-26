@@ -12,7 +12,7 @@ These notebooks can be viewed as static web pages by clicking on the links below
 
 They can also be viewed interactively without installing or downloading
 anything. To do this click on the link below and wait for Jupyter Lab to launch
-in your browser.
+in your browser. This may take a few minutes on the server side.
 
 - [link](https://mybinder.org/v2/gh/Weeks-UNC/RNAvigate_figures/HEAD)
 
@@ -20,11 +20,16 @@ Once Jupyter Lab is running, use the left panel to open the notebooks.
 Notebook files are located at:
 
 - interactive_notebooks/
-  - figure_1/figure_1.ipynb
-  - figure_2/figure_2.ipynb
-  - figure_3/figure_3.ipynb
-  - figure_4/figure_4.ipynb
-  - figure_5/figure_5.ipynb
+  - figure_1/
+    - F1_simple_plots.ipynb
+  - figure_2/
+    - F2_smCCP_tmRNA.ipynb
+  - figure_3/
+    - F3_lowSS_DENV.ipynb
+  - figure_4/
+    - F4_tr-folding_RNaseP.ipynb
+  - figure_5/
+    - F5_DANCE_add-riboswitch.ipynb
 
 Hit the double-play button in the top ribbon (restart and run all cells) to run
 the python code contained in the notebook. Figures will dissapear and be
