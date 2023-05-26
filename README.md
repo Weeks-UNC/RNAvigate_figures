@@ -1,36 +1,52 @@
 # RNAvigate_figures
 
-Data and Jupyter notebooks used in the creation of figures for RNAvigate paper.
+This repository contains the processed data and Jupyter notebooks used in the
+creation of figures for the RNAvigate manuscript.
 
-These notebooks can be viewed as static web pages by clicking on the links below.
+There are three options to view these notebooks:
 
-- [figure 1](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F1_simple_plots.html)
-- [figure 2](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F2_smCCP_tmRNA.html)
-- [figure 3](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F3_lowSS_DENV.html)
-- [figure 4](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F4_tr-folding_RNaseP.html)
-- [figure 5](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F5_DANCE_add-riboswitch.html)
+## 1. Static web pages
 
-They can also be viewed interactively without installing or downloading
-anything. To do this click on the link below and wait for Jupyter Lab to launch
-in your browser. This may take a few minutes on the server side.
+[figure 1](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F1_simple_plots.html),
+[figure 2](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F2_smCCP_tmRNA.html),
+[figure 3](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F3_lowSS_DENV.html),
+[figure 4](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F4_tr-folding_RNaseP.html),
+[figure 5](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/RNAvigate_figures/blob/main/static_notebooks/F5_DANCE_add-riboswitch.html)
+
+
+## 2. Interactive notebooks on the web with Binder
+
+No installations or downloads are required. It can take a few minutes for
+Binder to start a new server.
 
 - [link](https://mybinder.org/v2/gh/Weeks-UNC/RNAvigate_figures/HEAD)
 
-Once Jupyter Lab is running, use the left panel to open the notebooks.
-Notebook files are located at:
+Once the Jupyter Lab server is running, open a notebook and hit the double-play
+button in the top ribbon (restart and run all cells) to run the python code
+contained in the notebook. Figures will dissapear breifly and be recreated.
+
+Currently, there are some differences in the Binder installation of RNAvigate
+vs the standard installation, and some code warnings may show up. These can
+safely be ignored.
+
+Notebook files can be found at the following locations in the left panel:
 
 - interactive_notebooks/
-  - figure_1/
-    - F1_simple_plots.ipynb
-  - figure_2/
-    - F2_smCCP_tmRNA.ipynb
-  - figure_3/
-    - F3_lowSS_DENV.ipynb
-  - figure_4/
-    - F4_tr-folding_RNaseP.ipynb
-  - figure_5/
-    - F5_DANCE_add-riboswitch.ipynb
+  - figure_1/F1_simple_plots.ipynb
+  - figure_2/F2_smCCP_tmRNA.ipynb
+  - figure_3/F3_lowSS_DENV.ipynb
+  - figure_4/F4_tr-folding_RNaseP.ipynb
+  - figure_5/F5_DANCE_add-riboswitch.ipynb
 
-Hit the double-play button in the top ribbon (restart and run all cells) to run
-the python code contained in the notebook. Figures will dissapear and be
-redrawn.
+
+## 3. Interactive notebooks on your local machine
+
+Download this repository (RNAvigate_figures). In order to view the Jupyter
+notebooks, you will need a working RNAvigate installation:
+  - [RNAvigate source code](https://github.com/Weeks-UNC/RNAvigate)
+  - [RNAvigate documentation](https://rnavigate.readthedocs.io)
+
+In future versions of RNAvigate, syntax changes may prevent these notebooks from
+running properly. If that is the case, here is the hard link to the version of
+RNAvigate used in these notebooks.
+  - [RNAvigate (0.1.0) source code](https://github.com/Weeks-UNC/RNAvigate/tree/3e2b68ded050d766fb178a7bdd553da2cb259ebb)
