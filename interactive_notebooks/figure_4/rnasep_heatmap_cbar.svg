@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="9.536424pt" version="1.1" viewBox="0 0 278.709677 9.536424" width="278.709677pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-11-02T11:41:30.457689</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 9.536424 
+L 278.709677 9.536424 
+L 278.709677 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path clip-path="url(#pdb35515a6c)" d="M 34.83871 8.344371 
+L 35.68246 8.344371 
+L 249.99496 8.344371 
+L 250.83871 8.344371 
+L 250.83871 1.144371 
+L 249.99496 1.144371 
+L 35.68246 1.144371 
+L 34.83871 1.144371 
+z
+" style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:miter;stroke-width:0.01;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 4.8 
+" id="m589890174b" style="stroke:#262626;"/>
+      </defs>
+      <g>
+       <use style="fill:#262626;stroke:#262626;" x="34.83871" xlink:href="#m589890174b" y="8.344371"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="fill:#262626;font-family:Arial;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(27.014272 22.943246)">less</text>
+      <text style="fill:#262626;font-family:Arial;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(22.85146 32.250896)">dense</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="fill:#262626;stroke:#262626;" x="250.83871" xlink:href="#m589890174b" y="8.344371"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="fill:#262626;font-family:Arial;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(240.81496 22.943246)">more</text>
+      <text style="fill:#262626;font-family:Arial;font-size:8.8px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(238.85146 32.250896)">dense</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <image height="7.2" id="image879ceeb581" transform="scale(1 -1)translate(0 -7.2)" width="216" x="34.971429" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAaQAAAAOCAYAAABgvGgJAAABK0lEQVR4nO3VMXLDMAxE0U3uf91MmgzWjSmBIiTLcYPiv0oGRBDkWIOv378fW9Zgj+cpuuWW2I21Iz7F0q957b7609p7ztPznZj+sSbv++4aHdYsdZ7vh+LyXGHLitPzx1Q7ln2irL2/F7pxt47DPsczWHYUsaqHWGJVjzHq5XxRu7rHqHpM95PrLfdU3EnYh7zO889ceD1/pO/tTn7bbzujltjUw2U+fXP5/Nb0np3vVkXsdX7kXu13tcaf9Kg1H2/td56Pqp/i/3hWOy7y8tRwEdN+n07PI5fr5PXHNVuuit2ok/u46lHStwAAaICBBABogYEEAGiBgQQAaIGBBABogYEEAGiBgQQAaIGBBABogYEEAGiBgQQAaIGBBABogYEEAGiBgQQAaOEBeQBNmDNSlAoAAAAASUVORK5CYII=" y="-1.028571"/>
+   <g id="text_3">
+    <text style="fill:#262626;font-family:Arial;font-size:9.6px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 142.83871, -4.855629)" x="142.83871" y="-4.855629">RINGs density</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdb35515a6c">
+   <rect height="7.2" width="216" x="34.83871" y="1.144371"/>
+  </clipPath>
+ </defs>
+</svg>
