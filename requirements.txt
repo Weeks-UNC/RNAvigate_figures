@@ -6,4 +6,5 @@ biopython
 numpy
 pandas
 scikit-learn
+openpyxl
 git+https://github.com/Weeks-UNC/RNAvigate@3e2b68d#egg=rnavigate
