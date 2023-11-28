@@ -16,18 +16,20 @@ There are three options to view these notebooks:
 
 ## 2. Interactive notebooks on the web with Binder
 
-No installations or downloads are required. It can take a few minutes for
-Binder to start a new server.
-
-- [link](https://mybinder.org/v2/gh/Weeks-UNC/RNAvigate_figures/HEAD)
+No installations or downloads are required. Usually, Binder will start up
+quickly, within a minute, but there may be longer wait times.
 
 Once the Jupyter Lab server is running, open a notebook and hit the double-play
 button in the top ribbon (restart and run all cells) to run the python code
 contained in the notebook. Figures will dissapear breifly and be recreated.
+Most figures are generated very quickly; some, especially kernel density
+estimates, may take a couple of minutes.
 
 Currently, there are some differences in the Binder installation of RNAvigate
 vs the standard installation, and some code warnings may show up. These can
 safely be ignored.
+
+- [link](https://mybinder.org/v2/gh/Weeks-UNC/RNAvigate_figures/HEAD)
 
 Notebook files can be found at the following locations in the left panel:
 
@@ -38,7 +40,6 @@ Notebook files can be found at the following locations in the left panel:
   - figure_4/F4_tr-folding_RNaseP.ipynb
   - figure_5/F5_DANCE_add-riboswitch.ipynb
   - figure_6/F6_compare_SARS2.ipynb
-
 
 ## 3. Interactive notebooks on your local machine
 
