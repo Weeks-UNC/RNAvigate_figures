@@ -1,9 +1,0 @@
-scipy
-py3dmol
-matplotlib
-seaborn
-biopython
-numpy
-pandas
-scikit-learn
-git+https://github.com/Weeks-UNC/RNAvigate@3e2b68d#egg=rnavigate
