@@ -7489,7 +7489,7 @@ were obtained from the authors. <a href="https://weekslab.com/wp-content/uploads
 <li>DENV2_EX-Diff_BP-prob.dp</li>
 <li>DENV2_EX-Diff_MFE.ct</li>
 </ul>
-<p>These files were produced by performing SHAPE-MaP, analyzing resulting sequencing
+<p>These files were originally produced by performing SHAPE-MaP, analyzing resulting sequencing
 reads using ShapeMapper, and then producing a secondary structure model and base
 pairing probabilities using SuperFold.</p>
 <p>In this example, we will analyze SHAPE-MaP data from the Dengue 2 viral genome.
@@ -7523,10 +7523,10 @@ entropy, a measure of likelihood to form alternative structures.</p>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="Define-the-experimental-sample-and-provide-input-file-names">Define the experimental sample and provide input file names<a class="anchor-link" href="#Define-the-experimental-sample-and-provide-input-file-names">¶</a></h2><ul>
-<li>sample: an arbitrary string that will serve as a label on plots</li>
-<li>shapemap: ShapeMapper2 profile.txt file</li>
-<li>pairprob: Superfold output file, .dp file providing basepairing probabilities</li>
-<li>ct: Superfold output file, .ct file providing an MFE structure</li>
+<li><code>sample</code>: an arbitrary string that will serve as a label on plots</li>
+<li><code>shapemap</code>: ShapeMapper2 profile.txt file</li>
+<li><code>pairprob</code>: Superfold output file, .dp file providing basepairing probabilities</li>
+<li><code>ct</code>: Superfold output file, .ct file providing an MFE structure</li>
 </ul>
 </div>
 </div>
@@ -7558,7 +7558,7 @@ entropy, a measure of likelihood to form alternative structures.</p>
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="Plot-results-of-the-low-SHAPE,-low-Shannon-entropy-analysis">Plot results of the low SHAPE, low Shannon entropy analysis<a class="anchor-link" href="#Plot-results-of-the-low-SHAPE,-low-Shannon-entropy-analysis">¶</a></h2><p>First, we will perform the lowSS analysis. By default, this step will produce a
 full-length plot. However, DENV2 is 10732 nt, which is a bit unweildy, so we
-will set <code>region=[1, 2000]</code> to limit the x-axis.</p>
+will set <code>region=[1, 2000]</code> to limit the visualization to nucleotide positions 1 through 2000.</p>
 </div>
 </div>
 </div>
